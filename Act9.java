@@ -25,6 +25,9 @@ public class Act9 {
 		}while(altura!=-1);
 		
 		System.out.println("El árbol más alto es: "+ arbolmasalto + " con " + maxaltura + " cm" );
+
+		sc.close();
 	}
 
 }
+
